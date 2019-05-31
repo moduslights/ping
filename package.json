@@ -1,7 +1,8 @@
 {
   "name": "ping",
   "version": "1.0.0",
-  "description": "",
+  "repository": "https://github.com/moduslights/ping.git",
+  "description": "Api for Ping app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
